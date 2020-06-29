@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mrmechko.github.io/categories/</loc>
+    <loc>https://www.ritwik.dev/articles/</loc>
+    <lastmod>2020-06-29T06:21:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mrmechko.github.io/tags/</loc>
+    <loc>https://www.ritwik.dev/</loc>
+    <lastmod>2020-06-29T06:21:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mrmechko.github.io/</loc>
+    <loc>https://www.ritwik.dev/articles/welcome.post/</loc>
+    <lastmod>2020-06-29T06:21:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ritwik.dev/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ritwik.dev/tags/</loc>
   </url>
   
 </urlset>
