@@ -1,23 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Infinite Rik</title>
-    <link>https://www.ritwik.dev/</link>
-    <description>Recent content on The Infinite Rik</description>
+    <title>Index on </title>
+    <link>http://example.org/</link>
+    <description>Recent content in Index on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2020 06:21:55 -0400</lastBuildDate>
-    
-	<atom:link href="https://www.ritwik.dev/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 13 Dec 2020 16:40:00 -0600</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing auto-export</title>
+      <link>http://example.org/notes/testing-auto-export/</link>
+      <pubDate>Sun, 13 Dec 2020 16:40:00 -0600</pubDate>
+      
+      <guid>http://example.org/notes/testing-auto-export/</guid>
+      <description>This is an attempt at testing autoexport</description>
+    </item>
     
     <item>
-      <title>welcome</title>
-      <link>https://www.ritwik.dev/articles/welcome.post/</link>
-      <pubDate>Mon, 29 Jun 2020 06:21:55 -0400</pubDate>
+      <title>Note</title>
+      <link>http://example.org/notes/note/</link>
+      <pubDate>Sun, 13 Dec 2020 16:21:00 -0600</pubDate>
       
-      <guid>https://www.ritwik.dev/articles/welcome.post/</guid>
-      <description>DONEWelcome to my first post You read it! yay!</description>
+      <guid>http://example.org/notes/note/</guid>
+      <description>ha ha
+References Allen, James, Hannah An, Ritwik Bose, Will de Beaumont, and Choh Man Teng. 2020. &amp;ldquo;A Broad-Coverage Deep Semantic Lexicon for Verbs.&amp;rdquo; In Proceedings of the 12th Language Resources and Evaluation Conference, 3243&amp;ndash;51. Marseille, France: European Language Resources Association. https://www.aclweb.org/anthology/2020.lrec-1.396.
+Bender, Michael A., Ritwik Bose, Rezaul Chowdhury, and Samuel McCauley. 2012. &amp;ldquo;The Kissing Problem: How to End a Gathering When Everyone Kisses Everyone Else Goodbye.&amp;rdquo; In Fun with Algorithms, edited by Evangelos Kranakis, Danny Krizanc, and Flaminia Luccio, 28&amp;ndash;39.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://example.org/posts/publications/</link>
+      <pubDate>Sun, 13 Dec 2020 16:21:00 -0600</pubDate>
+      
+      <guid>http://example.org/posts/publications/</guid>
+      <description>A list of publications
+References Allen, James, Hannah An, Ritwik Bose, Will de Beaumont, and Choh Man Teng. 2020. &amp;ldquo;A Broad-Coverage Deep Semantic Lexicon for Verbs.&amp;rdquo; In Proceedings of the 12th Language Resources and Evaluation Conference, 3243&amp;ndash;51. Marseille, France: European Language Resources Association. https://www.aclweb.org/anthology/2020.lrec-1.396.
+Bender, Michael A., Ritwik Bose, Rezaul Chowdhury, and Samuel McCauley. 2012. &amp;ldquo;The Kissing Problem: How to End a Gathering When Everyone Kisses Everyone Else Goodbye.&amp;rdquo; In Fun with Algorithms, edited by Evangelos Kranakis, Danny Krizanc, and Flaminia Luccio, 28&amp;ndash;39.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://example.org/publications/</link>
+      <pubDate>Sun, 13 Dec 2020 16:21:00 -0600</pubDate>
+      
+      <guid>http://example.org/publications/</guid>
+      <description>References [1] James Allen, Hannah An, Ritwik Bose, Will de Beaumont, and Choh Man Teng. 2020. A broad-coverage deep semantic lexicon for verbs. In Proceedings of the 12th language resources and evaluation conference, European Language Resources Association, Marseille, France, 3243&amp;ndash;3251. Retrieved from https://www.aclweb.org/anthology/2020.lrec-1.396
+[2] Michael A. Bender, Ritwik Bose, Rezaul Chowdhury, and Samuel McCauley. 2012. The kissing problem: How to end a gathering when everyone kisses everyone else goodbye. In Fun with algorithms, Springer Berlin Heidelberg, Berlin, Heidelberg, 28&amp;ndash;39.</description>
+    </item>
+    
+    <item>
+      <title>This is a test guide</title>
+      <link>http://example.org/guides/this-is-a-test-guide/</link>
+      <pubDate>Sun, 13 Dec 2020 16:21:00 -0600</pubDate>
+      
+      <guid>http://example.org/guides/this-is-a-test-guide/</guid>
+      <description> Read this post  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Welcome to my page!</description>
     </item>
     
   </channel>
