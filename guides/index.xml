@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guides on </title>
-    <link>https://www.ritwik.dev/guides/</link>
+    <link>https://mrmechko.github.io/guides/</link>
     <description>Recent content in Guides on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Dec 2020 16:21:00 -0600</lastBuildDate><atom:link href="https://www.ritwik.dev/guides/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Dec 2020 16:21:00 -0600</lastBuildDate><atom:link href="https://mrmechko.github.io/guides/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is a test guide</title>
-      <link>https://www.ritwik.dev/guides/this-is-a-test-guide/</link>
+      <link>https://mrmechko.github.io/guides/this-is-a-test-guide/</link>
       <pubDate>Sun, 13 Dec 2020 16:21:00 -0600</pubDate>
       
-      <guid>https://www.ritwik.dev/guides/this-is-a-test-guide/</guid>
+      <guid>https://mrmechko.github.io/guides/this-is-a-test-guide/</guid>
       <description> Read this post  </description>
     </item>
     
