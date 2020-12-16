@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>https://ritwik.dev/posts/</link>
+    <link>https://www.ritwik.dev/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Dec 2020 16:21:00 -0600</lastBuildDate><atom:link href="https://ritwik.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Dec 2020 16:21:00 -0600</lastBuildDate><atom:link href="https://www.ritwik.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>https://ritwik.dev/posts/publications/</link>
+      <link>https://www.ritwik.dev/posts/publications/</link>
       <pubDate>Sun, 13 Dec 2020 16:21:00 -0600</pubDate>
       
-      <guid>https://ritwik.dev/posts/publications/</guid>
+      <guid>https://www.ritwik.dev/posts/publications/</guid>
       <description>A list of publications
 References Allen, James, Hannah An, Ritwik Bose, Will de Beaumont, and Choh Man Teng. 2020. &amp;ldquo;A Broad-Coverage Deep Semantic Lexicon for Verbs.&amp;rdquo; In Proceedings of the 12th Language Resources and Evaluation Conference, 3243&amp;ndash;51. Marseille, France: European Language Resources Association. https://www.aclweb.org/anthology/2020.lrec-1.396.
 Bender, Michael A., Ritwik Bose, Rezaul Chowdhury, and Samuel McCauley. 2012. &amp;ldquo;The Kissing Problem: How to End a Gathering When Everyone Kisses Everyone Else Goodbye.&amp;rdquo; In Fun with Algorithms, edited by Evangelos Kranakis, Danny Krizanc, and Flaminia Luccio, 28&amp;ndash;39.</description>
