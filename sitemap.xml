@@ -3,60 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://ritwik.dev/</loc>
     <lastmod>2020-12-13T16:40:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/notes/</loc>
+    <loc>https://ritwik.dev/notes/</loc>
     <lastmod>2020-12-13T16:40:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/notes/testing-auto-export/</loc>
+    <loc>https://ritwik.dev/notes/testing-auto-export/</loc>
     <lastmod>2020-12-13T16:40:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/guides/</loc>
+    <loc>https://ritwik.dev/guides/</loc>
     <lastmod>2020-12-13T16:21:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/notes/note/</loc>
+    <loc>https://ritwik.dev/notes/note/</loc>
     <lastmod>2020-12-13T16:21:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://ritwik.dev/posts/</loc>
     <lastmod>2020-12-13T16:21:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/publications/</loc>
+    <loc>https://ritwik.dev/posts/publications/</loc>
     <lastmod>2020-12-13T16:21:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publications/</loc>
+    <loc>https://ritwik.dev/publications/</loc>
     <lastmod>2020-12-13T16:21:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/guides/this-is-a-test-guide/</loc>
+    <loc>https://ritwik.dev/guides/this-is-a-test-guide/</loc>
     <lastmod>2020-12-13T16:21:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://ritwik.dev/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://ritwik.dev/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ritwik.dev/tags/</loc>
   </url>
   
 </urlset>
