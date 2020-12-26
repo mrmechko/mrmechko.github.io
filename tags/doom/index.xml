@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>doom on </title>
+    <link>/tags/doom/</link>
+    <description>Recent content in doom on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Dec 2020 13:40:00 -0600</lastBuildDate><atom:link href="/tags/doom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using SLY to connect to a slynk server in vagrant</title>
+      <link>/posts/using-sly-to-connect-to-a-slynk-server-in-vagrant/</link>
+      <pubDate>Sat, 26 Dec 2020 13:40:00 -0600</pubDate>
+      
+      <guid>/posts/using-sly-to-connect-to-a-slynk-server-in-vagrant/</guid>
+      <description>I want to be able to use sly, but I particularly want to be able to use it in my vagrant machines. sly-tramp seems to help with that. In order to use slynk remotely, first, I need to initialize the correct version of the slynk server remotely. The vagrant machines have the sly repository cloned to \~/sly and the following added to .sbclrc:
+(push #p&amp;#34;~/sly/slynk/&amp;#34; ASDF:*CENTRAL-REGISTRY*) (asdf:require-system :slynk) (slynk:create-server :port 4005) ; adjust this accordingly I then activate the sly-tramp contrib add the following to &#39;sly-filename-translations:</description>
+    </item>
+    
+  </channel>
+</rss>

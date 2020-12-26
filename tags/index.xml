@@ -5,6 +5,52 @@
     <link>/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Dec 2020 13:40:00 -0600</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>doom</title>
+      <link>/tags/doom/</link>
+      <pubDate>Sat, 26 Dec 2020 13:40:00 -0600</pubDate>
+      
+      <guid>/tags/doom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emacs</title>
+      <link>/tags/emacs/</link>
+      <pubDate>Sat, 26 Dec 2020 13:40:00 -0600</pubDate>
+      
+      <guid>/tags/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lisp</title>
+      <link>/tags/lisp/</link>
+      <pubDate>Sat, 26 Dec 2020 13:40:00 -0600</pubDate>
+      
+      <guid>/tags/lisp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sly</title>
+      <link>/tags/sly/</link>
+      <pubDate>Sat, 26 Dec 2020 13:40:00 -0600</pubDate>
+      
+      <guid>/tags/sly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vagrant</title>
+      <link>/tags/vagrant/</link>
+      <pubDate>Sat, 26 Dec 2020 13:40:00 -0600</pubDate>
+      
+      <guid>/tags/vagrant/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
