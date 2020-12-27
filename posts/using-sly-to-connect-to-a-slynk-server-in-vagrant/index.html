@@ -59,7 +59,7 @@ Natural Language Understanding">
             crossorigin="anonymous"></script>
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Using SLY to connect to a slynk server in vagrant"/>
-<meta name="twitter:description" content="I want to be able to use sly, but I particularly want to be able to use it in my vagrant machines. sly-tramp seems to help with that. In order to use slynk remotely, first, I need to initialize the correct version of the slynk server remotely. The vagrant machines have the sly repository cloned to \~/sly and the following added to .sbclrc:
+<meta name="twitter:description" content="I want to be able to use sly, but I particularly want to be able to use it in my vagrant machines. sly-tramp seems to help with that. In order to use slynk remotely, first, I need to initialize the correct version of the slynk server remotely. The vagrant machines have the sly repository cloned to ~/sly and the following added to .sbclrc:
 (push #p&#34;~/sly/slynk/&#34; ASDF:*CENTRAL-REGISTRY*) (asdf:require-system :slynk) (slynk:create-server :port 4005) ; adjust this accordingly I then activate the sly-tramp contrib add the following to &#39;sly-filename-translations:"/>
 
 </head>
@@ -152,7 +152,7 @@ Natural Language Understanding</p>
                 
             </div>
 
-            <p>I want to be able to use sly, but I particularly want to be able to use it in my vagrant machines. <code>sly-tramp</code> seems to help with that. In order to use <code>slynk</code> remotely, first, I need to initialize the correct version of the <code>slynk</code> server remotely. The vagrant machines have the <a href="https://github.com/joaotavora/sly">sly</a> repository cloned to \~/sly and the following added to <code>.sbclrc</code>:</p>
+            <p>I want to be able to use sly, but I particularly want to be able to use it in my vagrant machines. <code>sly-tramp</code> seems to help with that. In order to use <code>slynk</code> remotely, first, I need to initialize the correct version of the <code>slynk</code> server remotely. The vagrant machines have the <a href="https://github.com/joaotavora/sly">sly</a> repository cloned to <code>~/sly</code> and the following added to <code>.sbclrc</code>:</p>
 <div class="highlight"><pre class="chroma"><code class="language-lisp" data-lang="lisp"><span class="p">(</span><span class="nb">push</span> <span class="l">#p&#34;~/sly/slynk/&#34;</span> <span class="nv">ASDF:*CENTRAL-REGISTRY*</span><span class="p">)</span>
 <span class="p">(</span><span class="nv">asdf:require-system</span> <span class="ss">:slynk</span><span class="p">)</span>
 <span class="p">(</span><span class="nv">slynk:create-server</span> <span class="ss">:port</span> <span class="mi">4005</span><span class="p">)</span> <span class="c1">; adjust this accordingly</span>
