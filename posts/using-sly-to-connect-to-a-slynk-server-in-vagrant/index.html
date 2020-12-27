@@ -147,7 +147,7 @@ Natural Language Understanding</p>
               <span class="nb">:username</span> <span class="s">&#34;vagrant&#34;</span><span class="p">))</span>
 </code></pre></div><p>This informs <code>sly</code> how to make the <code>tramp</code> translation to vagrant. I have <code>vagrant-tramp</code> installed which facilitates easily opening the <code>tramp</code> connection.</p>
 <p>In order to be able to access the remote instance of <code>sbcl</code>, I have to first start it on the vagrant machine then bind the port on the host machine using</p>
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">ssh vagrant@127.0.0.1 -p2222 -L4005:localhost:4005 <span class="c1"># remember to adjust the port if necessary</span>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">ssh vagrant@127.0.0.1 -p2222 -L4005:localhost:4005 <span class="c1"># remember to adjust the port</span>
 </code></pre></div><p>I can then connect to the remote <code>slynk</code> server using <code>M-x sly-connect</code>. The remote host is <code>127.0.0.1</code> and the port is whatever was used to start the server.</p>
 <p>Some parts of this might be buggy down the line or unecessary right now.</p>
 </div>
